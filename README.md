@@ -12,6 +12,9 @@ Bài Tập Môn React
 9.[Câu 15] (https://codepen.io/NgocDang/pen/Poammqb)
 10.[Câu 16] (https://codepen.io/NgocDang/pen/qBKYzXP)
 11.[Câu 17] (https://codepen.io/NgocDang/pen/GRGdbyw)
+
+
+
 ## Thực Hành 
 1. [Bài thực hành pros và state]
 2. [Bài thực hành số 1]
