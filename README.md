@@ -1,21 +1,21 @@
 # MyReact
 Bài Tập Môn React
 ## Lý Thuyết 
-1. [Câu 1] (https://codepen.io/NgocDang/pen/JjvgZgv)
+1.  [Câu 1] (https://codepen.io/NgocDang/pen/JjvgZgv)
 
-2. [Câu 2] (https://codepen.io/NgocDang/pen/LYmwBPB)
+2.  [Câu 2] (https://codepen.io/NgocDang/pen/LYmwBPB)
  
 3.  [Câu 3] (https://codesandbox.io/s/bai-3-331tgt)
    
 4.  [Câu 4] (https://codepen.io/NgocDang/pen/OJEqyEV)
    
-5   [Câu 5] (https://codepen.io/NgocDang/pen/eYKXpLy)
+5.  [Câu 5] (https://codepen.io/NgocDang/pen/eYKXpLy)
    
-6   [Câu 6] (https://codepen.io/NgocDang/pen/dyKrYqr)
+6.  [Câu 6] (https://codepen.io/NgocDang/pen/dyKrYqr)
    
-7   [Câu 7] (https://codesandbox.io/s/bai-7-vvgrot)
+7.  [Câu 7] (https://codesandbox.io/s/bai-7-vvgrot)
    
-8   [Câu 8] (https://codepen.io/NgocDang/pen/OJEqyry)
+8.  [Câu 8] (https://codepen.io/NgocDang/pen/OJEqyry)
    
 9.  [Câu 9] (https://codepen.io/NgocDang/pen/mdKEMbm)
 
