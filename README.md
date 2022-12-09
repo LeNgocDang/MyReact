@@ -9,7 +9,7 @@ Bài Tập Môn React
    
 4.  [Câu 4] (https://codepen.io/NgocDang/pen/OJEqyEV)
    
-5  [Câu 5] (https://codepen.io/NgocDang/pen/eYKXpLy)
+5   [Câu 5] (https://codepen.io/NgocDang/pen/eYKXpLy)
    
 6   [Câu 6] (https://codepen.io/NgocDang/pen/dyKrYqr)
    
@@ -17,7 +17,7 @@ Bài Tập Môn React
    
 8   [Câu 8] (https://codepen.io/NgocDang/pen/OJEqyry)
    
-9. [Câu 9] (https://codepen.io/NgocDang/pen/mdKEMbm)
+9.  [Câu 9] (https://codepen.io/NgocDang/pen/mdKEMbm)
 
 10. [Câu 10] (https://codepen.io/NgocDang/pen/qBKNXqN)
 
