@@ -44,6 +44,7 @@ Bài Tập Môn React
 21. [Câu 21] (https://codepen.io/NgocDang/pen/bGKZVqN)
 ## Thực Hành 
 1. [Bài thực hành pros và state]
+
 2.Bài thực hành số 1:https://codepen.io/NgocDang/pen/dyKLRdK
 
 
