@@ -45,6 +45,6 @@ Bài Tập Môn React
 ## Thực Hành 
 1. [Bài thực hành pros và state]
 
-2.Bài thực hành số 1:https://codepen.io/NgocDang/pen/dyKLRdK
+2. [Bài thực hành số 1](https://codepen.io/NgocDang/pen/dyKLRdK)
 
 
