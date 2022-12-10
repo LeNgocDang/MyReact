@@ -47,5 +47,6 @@ Bài Tập Môn React
 
 2. [Bài thực hành số 1](https://codepen.io/NgocDang/pen/dyKLRdK)
 3. [Bài thực hành số 2](https://codesandbox.io/s/bai-thuc-hanh-so-2-g9kjny)
+4. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/bai-thuc-hanh-lam-quen-react-va-tao-component-45ylq2)
 
 
