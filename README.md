@@ -43,7 +43,7 @@ Bài Tập Môn React
 
 21. [Câu 21](https://codepen.io/NgocDang/pen/bGKZVqN)
 ## Thực Hành 
-1. [Bài thực hành pros và state](https://codepen.io/NgocDang/pen/WNyWEex)
+1. [Bài thực hành Props và State](https://codepen.io/NgocDang/pen/WNyWEex)
 
 2. [Bài thực hành số 1](https://codepen.io/NgocDang/pen/dyKLRdK)
 3. [Bài thực hành số 2](https://codesandbox.io/s/bai-thuc-hanh-so-2-g9kjny)
